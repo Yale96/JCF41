@@ -97,7 +97,9 @@ public class HandleWords {
     
     public String cooncerdantie(String input)
     {
+        //Haal regels op
         String[] rules = input.split("\n");
+        //Hashmap, zodat ik 
         Map<String, TreeSet<Integer>> map = new HashMap<>();
         int ruleNumber = 0;
         for (String w : rules) {
@@ -116,7 +118,7 @@ public class HandleWords {
                 }
             }
         }
-        //vervang alle spaties voor een newline, zodat ales op een nieuwe regel kom.
+        //geen digit of spatie meer,dan een new line, zodat ales op een nieuwe regel kom.
      return map.toString().replaceAll(", (?!\\d)", "\n");
     }
     
