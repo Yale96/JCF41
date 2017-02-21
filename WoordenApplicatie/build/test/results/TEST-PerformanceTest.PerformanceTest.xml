@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-DHBN9IL" name="PerformanceTest.PerformanceTest" skipped="0" tests="5" time="8.677" timestamp="2017-02-21T12:53:43">
+<testsuite errors="0" failures="0" hostname="DESKTOP-DHBN9IL" name="PerformanceTest.PerformanceTest" skipped="0" tests="5" time="9.235" timestamp="2017-02-21T13:03:38">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="NL" />
@@ -14,7 +14,7 @@
     <property name="javadoc.windowtitle" value="" />
     <property name="libs.jsp-compilation.javadoc" value="" />
     <property name="javafx.preloader.enabled" value="false" />
-    <property name="user.dir" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie" />
+    <property name="user.dir" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie" />
     <property name="libs.javaee-api-7.0.src" value="" />
     <property name="java.vm.version" value="25.121-b13" />
     <property name="libs.DataBindingME.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\mobility\modules\ext\netbeans_databindingme.jar" />
@@ -67,7 +67,7 @@
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner PerformanceTest.PerformanceTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\test\results\TEST-PerformanceTest.PerformanceTest.xml crashfile=E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\junitvmwatcher3412738073060690382.properties propsfile=E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\junit585057484721660031.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner PerformanceTest.PerformanceTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\test\results\TEST-PerformanceTest.PerformanceTest.xml crashfile=C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\junitvmwatcher5342874005217864895.properties propsfile=C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\junit3059617333469030095.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -140,7 +140,7 @@
     <property name="libs.spring-framework400.src" value="" />
     <property name="libs.PostgreSQLDriver.src" value="" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="basedir" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie" />
+    <property name="basedir" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie" />
     <property name="libs.jpa20-persistence.maven-pom" value="" />
     <property name="jar.compress" value="false" />
     <property name="libs.javaee-web-api-7.0.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\enterprise\modules\ext\javaee-web-api-7.0.jar" />
@@ -187,7 +187,7 @@
     <property name="libs.spring-webmvc4.0.maven-pom" value="" />
     <property name="libs.spring-framework300.src" value="" />
     <property name="libs.jstl.src" value="" />
-    <property name="empty.dir" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\empty" />
+    <property name="empty.dir" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\empty" />
     <property name="javafx.deploy.backgroundupdate" value="false" />
     <property name="javafx.disable.concurrent.runs" value="false" />
     <property name="version-output" value="java version &quot;1.8" />
@@ -238,7 +238,7 @@
     <property name="javac.processorpath" value="C:\Program Files\Java\jdk1.8.0_121\jre/lib/javaws.jar:C:\Program Files\Java\jdk1.8.0_121\jre/lib/deploy.jar:C:\Program Files\Java\jdk1.8.0_121\jre/lib/plugin.jar" />
     <property name="libs.hamcrest.maven-pom" value="" />
     <property name="javac.compilerargs" value="" />
-    <property name="ant.file" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build.xml" />
+    <property name="ant.file" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build.xml" />
     <property name="libs.beans-binding.maven-pom" value="" />
     <property name="ant.file.type.WoordenApplicatie" value="file" />
     <property name="libs.hibernate4-support.javadoc" value="E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
@@ -273,7 +273,7 @@
     <property name="ap.processors.internal" value="" />
     <property name="meta.inf.dir" value="src/META-INF" />
     <property name="javadoc.encoding.used" value="UTF-8" />
-    <property name="ant.file.WoordenApplicatie" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build.xml" />
+    <property name="ant.file.WoordenApplicatie" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build.xml" />
     <property name="libs.DataBindingME-SVG.src" value="E:\Programmas\Netbeans\NetBeans 8.2\mobility\sources\netbeans_databindingme_svg-src.zip" />
     <property name="dist.jar" value="dist/WoordenApplicatie.jar" />
     <property name="libs.spring-framework400.maven-pom" value="" />
@@ -316,14 +316,14 @@
     <property name="libs.eclipselinkmodelgen.javadoc" value="" />
     <property name="libs.metro.javadoc" value="E:\Programmas\Netbeans\NetBeans 8.2\enterprise\docs\metro-1.4-doc.zip" />
     <property name="libs.struts.maven-pom" value="" />
-    <property name="ant.file.jfx-impl" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\nbproject\jfx-impl.xml" />
+    <property name="ant.file.jfx-impl" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\nbproject\jfx-impl.xml" />
     <property name="netbeans.home+have.tests" value="true" />
     <property name="annotation.processing.processor.options" value="" />
     <property name="libs.testng.maven-pom" value="" />
     <property name="libs.jaxb.src" value="" />
     <property name="jdk.launcher.addexports.5" value="java.management/sun.management=ALL-UNNAMED" />
     <property name="jdk.launcher.addexports.4" value="java.desktop/com.sun.java.swing.plaf.windows=ALL-UNNAMED" />
-    <property name="work.dir" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie" />
+    <property name="work.dir" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie" />
     <property name="jdk.launcher.addexports.3" value="java.desktop/sun.awt.im=ALL-UNNAMED" />
     <property name="compile.on.save.unsupported.javafx" value="true" />
     <property name="jdk.launcher.addexports.2" value="java.desktop/java.awt.peer=ALL-UNNAMED" />
@@ -348,7 +348,7 @@
     <property name="junit.forkmode" value="perTest" />
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes" />
     <property name="javac.target" value="1.8" />
-    <property name="built-jar.properties" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\built-jar.properties" />
+    <property name="built-jar.properties" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="javafx.deploy.permissionselevated" value="true" />
     <property name="src.dir" value="src" />
@@ -398,7 +398,7 @@
     <property name="libs.jpa2-persistence.javadoc" value="E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
     <property name="libs.DataBindingME.javadoc" value="E:\Programmas\Netbeans\NetBeans 8.2\mobility\modules\docs\netbeans_databindingme-api.zip" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
-    <property name="java.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\plugin.jar;E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\classes;E:\Programmas\Netbeans\NetBeans 8.2\platform\modules\ext\junit-4.12.jar;E:\Programmas\Netbeans\NetBeans 8.2\platform\modules\ext\hamcrest-core-1.3.jar;E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\build\test\classes;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-launcher.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-junit.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-junit4.jar;C:\Users\yanni\AppData\Roaming\NetBeans\8.2\modules\ext\jacocoagent.jar" />
+    <property name="java.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\plugin.jar;C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\classes;E:\Programmas\Netbeans\NetBeans 8.2\platform\modules\ext\junit-4.12.jar;E:\Programmas\Netbeans\NetBeans 8.2\platform\modules\ext\hamcrest-core-1.3.jar;C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\build\test\classes;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-launcher.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-junit.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-junit4.jar;C:\Users\yanni\AppData\Roaming\NetBeans\8.2\modules\ext\jacocoagent.jar" />
     <property name="libs.absolutelayout.src" value="" />
     <property name="libs.jpa20-persistence.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar" />
     <property name="os.version" value="10.0" />
@@ -424,7 +424,7 @@
     <property name="libs.spring-framework300.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\ide\modules\org-apache-commons-logging.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\cglib-2.2.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-aop-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-aspects-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-beans-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-build-src-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-context-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-context-support-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-core-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-expression-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-framework-bom-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-instrument-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-jdbc-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-jms-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-orm-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-oxm-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-struts-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-test-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-tx-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-web-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-webmvc-3.2.7.RELEASE.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.2.7.RELEASE.jar" />
     <property name="libs.jsp-compiler.maven-pom" value="" />
     <property name="libs.hamcrest.src" value="" />
-    <property name="run.jvmargs" value="  -javaagent:&quot;C:\Users\yanni\AppData\Roaming\NetBeans\8.2\modules\ext\jacocoagent.jar&quot;=includes=woordenapplicatie.*:woordenapplicatie.gui.*,destfile=&quot;E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\jacoco.exec-531015716960397&quot;" />
+    <property name="run.jvmargs" value="  -javaagent:&quot;C:\Users\yanni\AppData\Roaming\NetBeans\8.2\modules\ext\jacocoagent.jar&quot;=includes=woordenapplicatie.*:woordenapplicatie.gui.*,destfile=&quot;C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\jacoco.exec-531610642656137&quot;" />
     <property name="libs.hibernate4-persistence.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\antlr-2.7.7.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\c3p0-0.9.2.1.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-c3p0-4.3.1.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\mchange-commons-java-0.2.3.4.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\dom4j-1.6.1.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\ehcache-core-2.4.3.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-ehcache-4.3.1.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-core-4.3.1.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\jboss-logging-3.1.3.GA.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-commons-annotations-4.0.4.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-entitymanager-4.3.1.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\javassist-3.18.1-GA.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\jboss-transaction-api_1.2_spec-1.0.0.Final.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\slf4j-api-1.6.1.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\slf4j-simple-1.6.1.jar;E:\Programmas\Netbeans\NetBeans 8.2\java\modules\ext\hibernate4\hibernate-jpa-2.1-api-1.0.0.Final.jar" />
     <property name="libs.JAXB-ENDORSED.src" value="" />
     <property name="libs.DataBindingME-PIM.src" value="E:\Programmas\Netbeans\NetBeans 8.2\mobility\sources\netbeans_databindingme_pim-src.zip" />
@@ -438,7 +438,7 @@
     <property name="libs.CopyLibs.src" value="" />
     <property name="build.dir" value="build" />
     <property name="libs.jsp-compilation.classpath" value="E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant.jar;E:\Programmas\Netbeans\NetBeans 8.2\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;E:\Programmas\Netbeans\NetBeans 8.2\enterprise\modules\ext\glassfish-jspparser-4.0.jar;E:\Programmas\Netbeans\NetBeans 8.2\enterprise\modules\ext\jsf-2_2\javax.faces.jar;E:\Programmas\Netbeans\NetBeans 8.2\enterprise\modules\ext\jstl-api.jar;E:\Programmas\Netbeans\NetBeans 8.2\extide\ant\lib\ant-launcher.jar" />
-    <property name="ant.file.WoordenApplicatie-impl" value="E:\School\S4\Software\JCF\Week 1\WoordenApplicatie\nbproject\build-impl.xml" />
+    <property name="ant.file.WoordenApplicatie-impl" value="C:\Users\yanni\OneDrive\Documents\GitHub\JCF41\WoordenApplicatie\nbproject\build-impl.xml" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
     <property name="build.classes.excludes" value="**/*.java,**/*.form" />
     <property name="file.encoding" value="Cp1252" />
@@ -449,22 +449,29 @@
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="E:\Programmas\Netbeans\NetBeans 8.2\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestFreqWoorden" time="4.141" />
-  <testcase classname="PerformanceTest.PerformanceTest" name="performceTestSorteerWoorden" time="0.001" />
-  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestConc" time="2.219" />
+  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestFreqWoorden" time="3.487" />
+  <testcase classname="PerformanceTest.PerformanceTest" name="performceTestSorteerWoorden" time="2.676" />
+  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestConc" time="1.258" />
   <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestGenerateWords" time="0.0" />
-  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestTelWoorden" time="2.262" />
-  <system-out><![CDATA[FREQUENTIE VAN DE WOORDENFrequentie van 1000000 woordenDat duurde: 911 ms
-SORTEER DE WOORDENSorteer 10 woordenDat duurde: 1 ms
-COONCERDANTIE VAN DE WOORDENConc 1000000 woorden: Method 'Conc' with 1000000 words: 2218 milliseconds
-HAAL WOORDEN OPHaal 1000000 woorden opDat duurde: 0 ms
+  <testcase classname="PerformanceTest.PerformanceTest" name="performanceTestTelWoorden" time="1.773" />
+  <system-out><![CDATA[FREQUENTIE VAN DE WOORDENFrequentie van 10 woordenDat duurde: 0 ms
+Frequentie van 10000 woordenDat duurde: 30 ms
+Frequentie van 1000000 woordenDat duurde: 757 ms
+Method 'Conc' with 1000000 words: 3484 milliseconds
+SORTEER DE WOORDENSorteer 10 woordenDat duurde: 0 ms
+Sorteer 10000 woordenDat duurde: 5 ms
+Sorteer 1000000 woordenDat duurde: 574 ms
+Method 'Conc' with 1000000 words: 2674 milliseconds
+COONCERDANTIE VAN DE WOORDENConc 10 woorden: Conc 10000 woorden: Conc 1000000 woorden: Method 'Conc' with 1000000 words: 1258 milliseconds
+HAAL WOORDEN OPHaal 10 woorden opDat duurde: 0 ms
 Method 'amount' with 1000000 words: 0 milliseconds
 TEL DE WOORDENTellen 10 woordenDat duurde: 0 ms
 Dat duurde: 0 ms
-Tellen 10000 woordenDat duurde: 10 ms
-Dat duurde: 9 ms
-Tellen 1000000 woordenDat duurde: 797 ms
-Dat duurde: 922 ms
+Tellen 10000 woordenDat duurde: 6 ms
+Dat duurde: 4 ms
+Tellen 1000000 woordenDat duurde: 605 ms
+Dat duurde: 776 ms
+Method 'Conc' with 1000000 words: 1772 milliseconds
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

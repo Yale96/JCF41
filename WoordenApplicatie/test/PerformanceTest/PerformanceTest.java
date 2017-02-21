@@ -72,7 +72,7 @@ public class PerformanceTest {
     public void performanceTestGenerateWords() {
         System.out.print("HAAL WOORDEN OP");
         startTime = System.nanoTime();
-        System.out.print("Haal 1000000 woorden op");
+        System.out.print("Haal 10 woorden op");
         word.haalWoordenOp(generateRandomWords(10));
         endTime = System.nanoTime();
             duration = (endTime - startTime) / 1000000;  // milliseconds.
@@ -82,32 +82,56 @@ public class PerformanceTest {
     @Test
     public void performceTestSorteerWoorden() {
         System.out.print("SORTEER DE WOORDEN");
+        startTime = System.nanoTime();
         System.out.print("Sorteer 10 woorden");
         word.sorteerWoorden(generateRandomWords(10));
+        System.out.print("Sorteer 10000 woorden");
+        word.sorteerWoorden(generateRandomWords(10000));
+        System.out.print("Sorteer 1000000 woorden");
+        word.sorteerWoorden(generateRandomWords(1000000));
+        endTime = System.nanoTime();
+        duration = (endTime - startTime) / 1000000;  // milliseconds.
+        System.out.println("Method 'Conc' with 1000000 words: " + duration + " milliseconds");
     }
     
     @Test
     public void performanceTestTelWoorden(){
         System.out.print("TEL DE WOORDEN");
+        startTime = System.nanoTime();
         System.out.print("Tellen 10 woorden");
         word.telWoorden(generateRandomWords(10));
         System.out.print("Tellen 10000 woorden");
         word.telWoorden(generateRandomWords(10000));
         System.out.print("Tellen 1000000 woorden");
         word.telWoorden(generateRandomWords(1000000));
+        endTime = System.nanoTime();
+        duration = (endTime - startTime) / 1000000;  // milliseconds.
+        System.out.println("Method 'Conc' with 1000000 words: " + duration + " milliseconds");
     }
     @Test
     public void performanceTestFreqWoorden() {
         System.out.print("FREQUENTIE VAN DE WOORDEN");
+        startTime = System.nanoTime();
+        System.out.print("Frequentie van 10 woorden");
+         word.frequentieVanWoorden(generateRandomWords(10));
+         System.out.print("Frequentie van 10000 woorden");
+         word.frequentieVanWoorden(generateRandomWords(10000));
         System.out.print("Frequentie van 1000000 woorden");
          word.frequentieVanWoorden(generateRandomWords(1000000));
+         endTime = System.nanoTime();
+        duration = (endTime - startTime) / 1000000;  // milliseconds.
+        System.out.println("Method 'Conc' with 1000000 words: " + duration + " milliseconds");
     }
 
     @Test
     public void performanceTestConc() {
         System.out.print("COONCERDANTIE VAN DE WOORDEN");
-        System.out.print("Conc 1000000 woorden: ");
         startTime = System.nanoTime();
+        System.out.print("Conc 10 woorden: ");
+        word.cooncerdantie(generateRandomWords(10));
+        System.out.print("Conc 10000 woorden: ");
+        word.cooncerdantie(generateRandomWords(10000));
+        System.out.print("Conc 1000000 woorden: ");
         word.cooncerdantie(generateRandomWords(1000000));
         endTime = System.nanoTime();
         duration = (endTime - startTime) / 1000000;  // milliseconds.
